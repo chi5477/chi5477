@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm chi5477! :stars:</h1>
 
-[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:issuesattack@gmail.com)](mailto:issuesattack@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:issuesattack@gmail.com) 
+>💡 If clicking doesn’t work, here is my email: `issuesattack@gmail.com`
 
 ## 👋 About Me
 
