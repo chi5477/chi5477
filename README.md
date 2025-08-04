@@ -2,8 +2,6 @@
 
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:issuesattack@gmail.com)](mailto:issuesattack@gmail.com)
 
-<p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p>
-
 ## 👋 About Me
 
 Hey there! :wave: I’m Chi, a developer from Taiwan. My background is a bit unique—I’ve been building internal tools to support my family’s work in the publishing and book retail industry. Over time, I’ve come to enjoy writing code not just for efficiency, but as a way to clarify thinking and improve how we do things.
